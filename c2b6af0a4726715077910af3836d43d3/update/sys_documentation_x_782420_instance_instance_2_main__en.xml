@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="instance_2_main" language="en" table="x_782420_instance_instance_2_main">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>instance_2_main</label>
+            <language>en</language>
+            <name>x_782420_instance_instance_2_main</name>
+            <plural>instance_2_mains</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-18 12:51:47</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>instance_2_main</sys_name>
+            <sys_package display_value="Instance 2 App" source="x_782420_instance">c2b6af0a4726715077910af3836d43d3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Instance 2 App">c2b6af0a4726715077910af3836d43d3</sys_scope>
+            <sys_update_name>sys_documentation_x_782420_instance_instance_2_main__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-18 12:51:47</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
